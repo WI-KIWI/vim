@@ -1,0 +1,14 @@
+name: vim
+version: '0.1'
+summary: vim
+description: 'Snappy the official Vim
+
+  '
+base: core18
+architectures:
+- amd64
+confinement: devmode
+grade: devel
+apps:
+  vim:
+    command: command-vim.wrapper
