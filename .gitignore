@@ -99,3 +99,10 @@ src/pixmaps
 
 # other possible files build by tools
 src/cscope.out
+
+# snap packaging specific
+/parts/
+/prime/
+/stage/
+/*.snap
+/snap/.snapcraft/
