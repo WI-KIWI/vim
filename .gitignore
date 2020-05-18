@@ -101,8 +101,8 @@ src/pixmaps
 src/cscope.out
 
 # snap packaging specific
-/parts/
-/prime/
-/stage/
-/*.snap
-/snap/.snapcraft/
+parts/
+prime/
+stage/
+*.snap
+snap/.snapcraft/
